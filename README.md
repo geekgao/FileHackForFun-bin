@@ -3,5 +3,4 @@
 - 请勿相信任何人。
 - 任何后果自负。
 
-
-![运行效果图]()
+![运行效果图](https://github.com/geekgao/FileHackForFun-bin/blob/master/preview.jpg?raw=true)
